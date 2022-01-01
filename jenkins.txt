@@ -32,6 +32,7 @@
 
 # 3:SOURCEFILE, DESTDIR
 3:TutorialFixes.version,GameData/TutorialFixes
+5:True
 9:Ships
 
 #
