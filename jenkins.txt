@@ -30,6 +30,9 @@
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
 1:TutorialFixes, TutorialFixes.version
 
+# 2:PROJNAME, PROJFILE, VERSIONFILE, PLUGINSFOLDER
+2:TutorialFixes,TutorialFixes/TutorialFixes.csproj,TutorialFixes.version,GameData/TutorialFixes/Plugins
+
 # 3:SOURCEFILE, DESTDIR
 3:TutorialFixes.version,GameData/TutorialFixes
 5:True
