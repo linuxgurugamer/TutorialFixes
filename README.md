@@ -17,7 +17,12 @@ Packaging and installing
 The patch is packaged so that all you have to do is unzip the file into the main KSP directory, the files
 will be placed into the correct locations
 
+
+
 You can also use CKAN to install this
 
 
-Note:  This includes a bundled copy of ModuleManager with it's own license
+Note:  This includes bundled copies of the following packages:
+
+    * ModuleManager with it's own license
+    * Harmony with it's own license

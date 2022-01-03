@@ -1,0 +1,15 @@
+0.0.1
+	Initial Release, includes fixes for the chagned LV-T45 engine and the missing Hopper craft
+
+0.0.2
+	Added Harmony change to fix 6th tutorial, which was using a missing engine, thanks to @Gotmachine for the Harmony code
+	Added bundled Harmony dlls
+	Added replacement .sfs files for the tutorials
+	Added code to copy replacement tutorials over the stock bad files
+		Suborbital Flight
+		Go For Orbit
+		To The Mun, Part 1
+		To The Mun, Part 2
+		From The Mun
+		Docking
+	Removed mod part modules from the Hopper
