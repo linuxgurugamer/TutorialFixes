@@ -32,7 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>R:\KSP_1.12.2_dev\GameData\000_Harmony\0Harmony.dll</HintPath>
+      <HintPath>$(KSPDIR)\GameData\000_Harmony\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="$(KSPDIR)\KSP_x64_Data\Managed\Assembly*.dll">
       <Private>False</Private>
