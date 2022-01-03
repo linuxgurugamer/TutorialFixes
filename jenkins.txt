@@ -33,6 +33,7 @@
 # 3:SOURCEFILE, DESTDIR
 3:TutorialFixes.version,GameData/TutorialFixes
 5:True
+7:000_Harmony
 9:Ships
 
 #
