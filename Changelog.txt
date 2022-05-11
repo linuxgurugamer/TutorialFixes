@@ -13,3 +13,11 @@
 		From The Mun
 		Docking
 	Removed mod part modules from the Hopper
+
+0.0.3
+	Added missing crew to the Docking Tutorial
+	Fixed engine part in the DockingTutorial (was using the old ModuleEngines)
+	Fixed engine not being enabled in the Docking Tutorial
+	Removed ModulePartInfo from sfs files (not a stock module)
+	Changed pilot from Jebediah to Valentia in the Go for Orbit tutorial
+

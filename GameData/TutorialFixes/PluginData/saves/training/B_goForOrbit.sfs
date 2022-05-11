@@ -149,7 +149,7 @@ GAME
 				modMass = 0
 				moduleVariantName = Basic
 				moduleCargoStackableQuantity = 1
-				crew = #autoLOC_20803
+				crew = #autoLOC_20827
 				EVENTS
 				{
 				}

@@ -9,7 +9,7 @@ rem    but not always
 
 set H=%KSPDIR%
 
-set H=R:\KSP_1.12.3_IFI_US2
+set H=R:\KSP_1.2.3_TutorialFixes
 
 set GAMEDIR=TutorialFixes
 set GAMEDATA="GameData"
